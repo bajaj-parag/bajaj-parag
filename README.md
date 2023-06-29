@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 👯 I’m looking to collaborate on **on all topics related to Data Science, Machine Learning and Artificial Intellegence**
+- 👯 I’m looking to collaborate on **all topics related to Data Science, Machine Learning and Artificial Intellegence**
 
 - 💬 Ask me about **Data Science, Machine Learning and Artificial Intelligence**
 
