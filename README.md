@@ -1,4 +1,4 @@
-![Linkedin_Cover_-_Data_Scientist_py4mog](https://www.dreamstime.com/photos-images/data-science.html)
+![Linkedin_Cover_-_Data_Scientist_py4mog]([https://www.dreamstime.com/photos-images/data-science.html](https://thumbs.dreamstime.com/z/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg))
 
 <h1 align="center">Hi 👋, I'm Parag Bajaj</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
