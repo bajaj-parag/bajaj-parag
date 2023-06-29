@@ -51,20 +51,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 <p align='center'> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=bajaj-parag&show_icons=true&theme=tokyonight"/> </p>
 <p align='center'> <img src="http://github-readme-streak-stats.herokuapp.com?user=bajaj-parag&theme=neon-palenight" width="50%"  alt="streak"> </p>
 <div align="center">
-<summary>:trophy: Github Profile Trophy</summary>
-</div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bajaj-parag
-&show_icons=true&theme=discord" alt="bajaj-parag" />
-</a> </p>
 
-<div style="align:center;
-            display:fill;
-            border-radius: false;
-            border-style: solid;
-            border-color:#000000;
-            border-style: false;
-            border-width: 2px;
-            color:#CF673A;
             font-size:15px;
             font-family: Georgia;
             background-color:#E8DCCC;
