@@ -52,11 +52,5 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 <p align='center'> <img src="http://github-readme-streak-stats.herokuapp.com?user=bajaj-parag&theme=neon-palenight" width="50%"  alt="streak"> </p>
 <div align="center">
 
-            font-size:15px;
-            font-family: Georgia;
-            background-color:#E8DCCC;
-            text-align:center;
-            letter-spacing:0.1px;
-            padding: 0.1em;">
 
 **<h2>♡ Thank you for taking the time ♡**
