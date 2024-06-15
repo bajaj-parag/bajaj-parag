@@ -4,7 +4,7 @@
 
 - 🌱 I love learning as a process and mostly about new things...
 
-- 🔭 I’m currently working as an Intern at <a href="https://www.bms.com/" target="blank"><img align="center" src="https://www.bms.com/assets/bms/us/en-us/logos/bms-rebrand-logo.svg" alt="bajaj-parag" height="20" width="100" /></a>
+- 🔭 I’m currently working as an Intern at <a href="https://www.bms.com/" target="blank"><img align="center" src="https://www.bms.com/assets/bms/us/en-us/logos/bms-rebrand-logo.svg" alt="bajaj-parag" height="20" width="200" /></a>
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
