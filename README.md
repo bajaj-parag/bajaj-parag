@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as Data Scientist at <a href="https://www.bms.com/" target="blank"><img align="center" src="https://www.bms.com/assets/bms/us/en-us/logos/bms-rebrand-logo.svg" alt="bajaj-parag" height="20" width="200" /></a>
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, GenAI, Agentic AI**
 
 - 👯 I’m looking to collaborate on **all topics related to Data Science, Machine Learning and Artificial Intellegence**
 
